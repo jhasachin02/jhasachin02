@@ -10,7 +10,6 @@
 
 - 📫 E mail **jhasachin1307@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1TboIXAkpndpZZV2jODuAltRBJ_g-4-pY/view?usp=sharing](https://drive.google.com/file/d/1TboIXAkpndpZZV2jODuAltRBJ_g-4-pY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
