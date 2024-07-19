@@ -8,7 +8,7 @@
 
 - 👨‍💻 Portfolio :  [https://sachinportfolio1.netlify.app/](https://sachinportfolio1.netlify.app/)
 
-- 📫 E mail **jhasachin1307@gmail.com**
+- 📫 E mail : **jhasachin1307@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
