@@ -1,3 +1,4 @@
+<img src="https://github.com/jhasachin02/jhasachin02/blob/main/banner.jpeg" alt="Logo" class="logo">
 <h1 align="center">Hi 👋, I'm Sachin Jha</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
