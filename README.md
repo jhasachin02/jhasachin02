@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/_sachin__jha_" target="blank"><img src="https://img.shields.io/twitter/follow/_sachin__jha_?logo=twitter&style=for-the-badge" alt="_sachin__jha_" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://sachinportfolio1.netlify.app/](https://sachinportfolio1.netlify.app/)
+- 👨‍💻 Portfolio :  [https://sachinportfolio1.netlify.app/](https://sachinportfolio1.netlify.app/)
 
-- 📫 How to reach me **jhasachin1307@gmail.com**
+- 📫 E mail **jhasachin1307@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TboIXAkpndpZZV2jODuAltRBJ_g-4-pY/view?usp=sharing](https://drive.google.com/file/d/1TboIXAkpndpZZV2jODuAltRBJ_g-4-pY/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1TboIXAkpndpZZV2jODuAltRBJ_g-4-pY/view?usp=sharing](https://drive.google.com/file/d/1TboIXAkpndpZZV2jODuAltRBJ_g-4-pY/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
