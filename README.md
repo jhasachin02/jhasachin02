@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/_sachin__jha_" target="blank"><img src="https://img.shields.io/twitter/follow/_sachin__jha_?logo=twitter&style=for-the-badge" alt="_sachin__jha_" /></a> </p>
 
-- 👨‍💻 Portfolio :  [https://sachinportfolio1.netlify.app/](https://sachinportfolio1.netlify.app/)
+- 👨‍💻 Portfolio :  sachinjha.me
 
 - 📫 E mail : **jhasachin1307@gmail.com**
 
